@@ -1,0 +1,13 @@
+{
+  "key.categories.brawlcore": "Brawl Core",
+  "key.brawlcore.dash": "Dash (hold W/A/S/D for direction)",
+  "key.brawlcore.block": "Block (hold)",
+
+  "menu.brawlcore.quick_host": "Quick Multiplayer World",
+  "menu.brawlcore.quick_host.essential": "Essential Multiplayer World",
+  "menu.brawlcore.quick_host.tooltip": "Creates a new world and opens it to other players immediately - no need to press Create New World.",
+
+  "message.brawlcore.hosted": "Quick Host: your world is open to other players on port %s.",
+  "message.brawlcore.hosted.essential": "Quick Host: world is open on port %s. Essential detected - use Essential's own invite/friends menu from the pause screen if you want friends outside your network to join.",
+  "message.brawlcore.host_failed": "Quick Host: could not open the world to other players."
+}
